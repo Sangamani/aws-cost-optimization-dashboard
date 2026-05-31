@@ -1,0 +1,16 @@
+.env
+.env.backup
+venv/
+__pycache__/
+
+.terraform/
+terraform/.terraform/
+
+terraform.tfstate
+terraform.tfstate.backup
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+
+frontend/node_modules/
+
+*.exe

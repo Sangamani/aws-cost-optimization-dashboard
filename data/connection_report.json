@@ -1,0 +1,6 @@
+{
+    "checks": {
+        "ec2_connection": "PASS",
+        "cost_explorer": "PASS"
+    }
+}
