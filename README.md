@@ -194,14 +194,13 @@ Example:
 #  Demo Screenshots
 
 ## Dashboard
-![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Screenshot%202026-05-31%20123510.png?raw=true)
-
+![Dashboard](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Screenshot%202026-05-31%20123510.png?raw=true)
 
 
 
 ## AWS EC2 Console
 
-![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Screenshot%202026-05-30%20225806.png)
+![AWS EC2 Console](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Screenshot%202026-05-30%20225806.png?raw=true)
 
 
 ## Terraform Apply
