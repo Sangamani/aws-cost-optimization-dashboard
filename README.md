@@ -194,6 +194,8 @@ Example:
 #  Demo Screenshots
 
 ## Dashboard
+![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Screenshot%202026-05-31%20123510.png?raw=true)
+
 
 (Add screenshot here)
 
