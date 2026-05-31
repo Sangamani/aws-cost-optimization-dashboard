@@ -210,6 +210,9 @@ Example:
 ##Terraform Infrastructure Provisioning
 ![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/Terraform%20Infrastructure%20Provisioning.png?raw=true)
 
+##AI Recommendation Engine
+
+![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/AI%20Recommendation%20Engine.png?raw=true)
 
 ---
 
