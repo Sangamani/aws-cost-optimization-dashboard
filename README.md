@@ -22,6 +22,7 @@ This platform provisions real AWS infrastructure, scans live EC2 resources, anal
 #  Architecture
 
 Terraform → AWS EC2 → FastAPI Backend → React Dashboard → AI Recommendations
+![image alt](https://github.com/Sangamani/ai-aws-cost-detective/blob/main/ai-aws-cost-detective-final.drawio.png?raw=true)
 
 ---
 
